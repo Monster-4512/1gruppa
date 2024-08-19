@@ -1,0 +1,256 @@
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Roboto+Condensed:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v53/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\oswald\v53\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\s\robotocondensed\v27\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\index.htm
+Content Type: text/html
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/css/style.css
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\css\style.css
+Content Type: text/css
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/banner/05.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\banner\05.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/bg/faq-bg.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\bg\faq-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/bg/video-bg.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\bg\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/feature/01.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\feature\01.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/feature/02.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\feature\02.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/feature/03.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\feature\03.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/feature/04.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\feature\04.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/feature/05.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\feature\05.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/feature/06.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\feature\06.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/offer/02.png
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\offer\02.png
+Content Type: image/png
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/offer/bg-1.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\offer\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/offer/bg-2.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\offer\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/offer/bg-3.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\offer\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/offer/bg-4.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\offer\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/offer/offer-bg-1.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\offer\offer-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/01.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\01.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/02.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\02.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/03.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\03.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/04.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\04.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/05.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\05.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/06.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\06.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/07.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\07.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/08.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\08.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/09.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\09.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/10.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\10.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/11.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\11.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/15.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\15.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/16.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\16.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/17.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\17.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/18.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\18.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/19.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\19.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/20.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\20.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/21.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\21.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/images/product/22.jpg
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\images\product\22.jpg
+Content Type: image/jpeg
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/all.min.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/countdowncustom.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\countdowncustom.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\jquery-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/jquery.waypoints.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\jquery.waypoints.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://nextgenerationdev.com/demos/html/fridaysale/dark/index.html
+File Name: C:\Downloaded Web Sites\nextgenerationdev.com\demos\html\fridaysale\dark\index.html
+Content Type: text/html
+
